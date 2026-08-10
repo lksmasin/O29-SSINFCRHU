@@ -1,0 +1,3 @@
+- Promotion
+- jedná se o formu komunikace mezi výrobcem/prodejcem a spotřebitelem
+-  je tvořena například: [[Reklama]], podpora,...

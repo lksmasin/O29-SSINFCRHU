@@ -1,0 +1,2 @@
+- Projevuje se bílými, zelenými či popelavými povlaky
+- Typickým zápachem po plísni

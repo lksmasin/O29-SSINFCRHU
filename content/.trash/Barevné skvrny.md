@@ -1,0 +1,2 @@
+- Červené či modré barvy je to výsledek některých mikroorganizmů
+- Maso je poživatelné pouze se souhlasem veterináře

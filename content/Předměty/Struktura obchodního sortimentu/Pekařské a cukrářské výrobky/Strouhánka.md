@@ -1,0 +1,1 @@
+Vyrábí se ze ztvrdlých zvlášť pečených [krudonů](https://cs.wikipedia.org/wiki/Kruton) z vodového těsta bez posypu nebo suchého běžného pečiva zbaveného posypu, do strouhánky nesmí zásadně přijít jemné [[Pečivo|pečivo]] a [[Chléb|chleba]]

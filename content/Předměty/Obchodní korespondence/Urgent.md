@@ -1,0 +1,4 @@
+- Pobídka na odeslané neodeslaného zboží (zasílání se doporučuje)
+- Dodavatel je povinen dodržet termín dodání uvedených v kupní smlouvě (v potvrzené, objednávce). Nedodrží-li tuto lhůtu, zákazník (kupující) plnění dodávky urguje (pobízí k jejímu uskutečnění)
+- Pobídku nejčastěji píšou kupující, pokud prodávající nedodá zboží ve sjednané lhůtě
+- Prodávající urguje kupujícího, např. že neodpověděl na vyžádanou nabídku objednávkou, že si nevyzvedl zboží, které bylo pro něho připraveno, ….

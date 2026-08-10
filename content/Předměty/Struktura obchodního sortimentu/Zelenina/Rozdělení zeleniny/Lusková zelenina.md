@@ -1,0 +1,2 @@
+- **Hrách** — semena hrachu setého, zelené lusky s kulovitými semeny, dřeňový (ke konzervaci), cukrový (sladší, křehčí), obsahuje sacharidy a plnohodnotné aminokyseliny
+- **Fazole** — zeleninové (ke konzervaci), k loupání (ke konzumaci), polozeleninové (zpracovávají se mladé, bez vláken lusku), opět esenciální aminokyseliny  a sacharidy, málo vitamínů a min. látek

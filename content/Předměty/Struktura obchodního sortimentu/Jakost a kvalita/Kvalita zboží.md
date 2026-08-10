@@ -1,0 +1,2 @@
+- Kvalitní zboží má seskupeny užitečné vlastnosti v jeden harmonický celek a zboží a zboží uspokojuje potřeby zákazníka
+- Nekvalitní zboží postrádá ve své hodnotě jednu z nejvýznamnějších vlastností

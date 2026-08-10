@@ -1,0 +1,1 @@
+Věda a soubor činností zabývající se měřením, jeho přesností, jednotností a spolehlivostí

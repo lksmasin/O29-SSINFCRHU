@@ -1,0 +1,5 @@
+- **Cibule** — hodně bílkovin, vit. B a C, Fe, éterické oleje, léčivé účinky, dodává se zelená s natí nebo bez natě
+	- zvláštní druh - nakládačka (drobné cibulky)
+- **Česnek** — několik cibulek (stroužků), léčivé účinky, vit., min. látky, modrý, bílý (uprostřed neroste zdřevnatělý stonek)
+- **Pažitka** — používají se stonky, silně aromatická zelenina, hlavně do polévek, vit. C
+- **Pórek** — složení podobné cibuli, používá se i stonek, velmi jemná chuť, ranní a pozdní (odolný proti mrazu)

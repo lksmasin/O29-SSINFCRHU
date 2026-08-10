@@ -1,0 +1,6 @@
+- Tvarohové náplně (do koláčů, buchet…);
+- Restaurační moučníky – plněné palačinky; tvarohové těsto (ovocné knedlíky) a posyp z tvrdého strouhaného tvarohu;
+- Nepečené tvarohové dorty a řezy;
+- Třené linecké těsto s tvarohem;
+- Třené hmoty – chlebíčky s tvarohem, bábovky aj.
+- Použtí „NASLADKO“ i „NASLANO“

@@ -1,0 +1,5 @@
+- Acidofilní [[Mléko]]
+- Kefír
+- Podmáslí
+- Obsahují kyselinu mléčnou a další cenné látky
+- Blahodárný vliv na trávení, lehčeji stravitelné nežli čerstvé [[Mléko]]

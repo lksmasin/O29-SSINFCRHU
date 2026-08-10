@@ -1,0 +1,9 @@
+- Bílkoviny – 7-19 %, tvoří tzv. lepek – charakteristický znak obilovin
+- Voda – kolem 15 %
+- Tuk -  do 5 %, záleží na druhu obiloviny a velikosti zrna, nejvyšší obsah u ovsa – po rozemletí způsobuje žluknutí
+- Sacharidy – základní složka, 55 – 78 % (škroby) = zdroj energie
+- Třísloviny – 5%, v obalových vrstvách
+- Volné jednoduché cukry – 3 %
+- Vitamíny skupiny B
+- Vláknina
+- Minerální látky

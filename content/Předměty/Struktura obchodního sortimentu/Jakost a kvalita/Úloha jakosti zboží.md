@@ -1,0 +1,8 @@
+- Jakost zaujímá u výrobců i spotřebitelů stále výraznější místo
+- Jakost výrobků je hlavním předmětem soutěže na světových trzích
+- Státy, které produkují jakostní výrobky dosahují na světových trzích úspěch a bohatství (zvyšují prodeje)
+- Jakost výrobku ovlivňuje i životní úroveň obyvatel
+- Jakost je důležitý ekonomický i politický činitel 
+- Spotřebitele ovlivňuje v rozhodnutí zda si zboží koupí, či nikoliv
+- Jakost vyjadřuje do jaké míry je zboží schopno uspokojit konkrétní požadavky spotřebitele a na kolik je použitelné na daný účel a vhodné ve vztahu k prostředí
+- Jakost je určována podmínkami spotřebitele i podmínkami výroby (výrobou získává výrobek vlastnosti, které jsou nositelem jeho užitečnosti)

@@ -1,0 +1,9 @@
+- Čerstvé maso se skladuje v chladírnách při teplotě od 2 do 5°C a relativní 
+- Vlhkosti vzduchu 70%
+- Maso vcelku a dělené se rozvěšuje na háky tak, aby se jednotlivé kusy navzájem nedotýkaly
+- Zmrazené maso se skladuje v mrazicím
+- Zařízení při teplotě nejméně -18°C
+- U masa se hodnotí -vzhled, chuť, konzistence, šťavnatost, protučnění, vzhled tuku, mírná vlhkost
+- Ke znehodnocení masa dochází špatným skladováním
+- Zkažení masa způsobují mikroorganismy (bakterie, plísně), to se projevuje změnou barvy, osliznutím, zápachem
+- Skladování na ledu

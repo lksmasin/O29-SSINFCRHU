@@ -1,0 +1,1 @@
+Sem patří rychle zapsané poznámky.

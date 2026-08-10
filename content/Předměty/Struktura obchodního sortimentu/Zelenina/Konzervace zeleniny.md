@@ -1,0 +1,7 @@
+- **Sterilizace** — potraviny se zahřejí na 100 °C, ničí se mikroorganismy, odstraňuje vzduch, ale ničí se i vitamíny
+- **Kysání** — účinkem soli a tepla dochází k mléčnému kvašení, tvorba vitamínů, hlavně zelí
+- **Sušení** — málo šetrný způsob, ničí se barva i biologická hodnota
+- **Zmrazování** — nejlepší způsob konzervace při –18 °C, 
+- **Solení** — sůl pohlcuje vodu a tím zeleninu konzervuje, česnek, houby
+- **Protlaky** — drcená zelenina, ochucená, sterilizovaná, zmražená
+- **Šťávy** — drtí a pasíruje se

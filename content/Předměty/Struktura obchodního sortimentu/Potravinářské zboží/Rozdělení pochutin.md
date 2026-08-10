@@ -1,0 +1,2 @@
+- **Povzbudivé** – káva, čaj, kakao, tabák
+- **Chuťové** - koření

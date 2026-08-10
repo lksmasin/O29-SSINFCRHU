@@ -1,0 +1,2 @@
+- Firma se snaží nejdříve rozpoznat potřeby zákazníků, rozčlenit trh a následně vyrobit výrobek (službu), který si zákazníci skutečně přejí.
+- Podstatou cíleného marketingu je, že každý zákazník je individuální ve svých potřebách, přáních, příjmech, zájmech apod. Proto se firma neoslovuje zákazníky jako celek, ale zaměří se na určitou část.

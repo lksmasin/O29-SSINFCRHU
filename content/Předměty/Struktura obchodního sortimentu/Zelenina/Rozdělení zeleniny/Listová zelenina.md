@@ -1,0 +1,5 @@
+- **Salát** — ranný, rychlený, krátká vegetační doba, vit. C, odrůdy se liší křehkostí listů
+- **Reveň rebarbora** — dlouhé řapíky zakončené širokými listy, vit. C, kys. jablečná, podporuje trávení
+- **Špenát** — řapíkaté listy, hodně Fe, nahořklá chuť, při úpravě se používá mléko a vejce
+- **Čínské zelí** — protáhlé, sytě zelené křehké listy, krátká veg. doba, vit. C
+- **Čekanka** — listy se skládají do srdíček, nahořklá chuť

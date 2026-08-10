@@ -1,0 +1,2 @@
+- Jde o počátek hnití masa
+- Nedochází ke změnám, ale na povrchu masa vznikají kolonie zárodků, které vytvářejí slizovitý povlak

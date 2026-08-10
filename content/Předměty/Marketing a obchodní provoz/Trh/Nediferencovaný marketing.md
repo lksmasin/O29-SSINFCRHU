@@ -1,0 +1,3 @@
+- Masový – firma hromadně vyrábí a distribuuje pouze jeden výrobek (základní výrobky – cukr, mouka,…)
+- Variantní – firma vyrábí dva nebo tři výrobky v různém provedení, kvalitě, velikosti apod. 
+- Prodávající se nesnaží oslovit jednotlivé tržná segmenty.

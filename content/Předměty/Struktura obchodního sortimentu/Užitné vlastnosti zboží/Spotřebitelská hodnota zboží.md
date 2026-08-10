@@ -1,0 +1,3 @@
+- Spotřebitel si vytváří o zboží, které si chce koupit, určité představy, které jsou spojeny především s užitím zboží. 
+- Vybírá si takové zboží , které je schopné v co největší míře jeho požadavky uspokojit. Sleduje především cenu a kvalitu zboží. Při nedostatku užitných vlastností ztrácí výrobek spotřebitelskou cenu a je zařazen do výprodeje za sníženou cenu.
+- Některé zboží nemá dokonce žádnou spotřebitelskou hodnotu - např. obuv číslo 40 nemá pro spotřebitele s velikostí nohy 36 žádnou spotřebitelskou cenu, spotřebiteli se zboží nelíbí nebo nemá peníze, popř. již stejné zboží vlastní

@@ -1,0 +1,8 @@
+- Konzervace masa se provádí:
+- Chlazení, mrazení – rychlé zmrazení, trvanlivost až 12 měsíců
+- Sušením - snížením obsahu vody 
+- Nakládání do soli, která snižuje obsah vody 
+- Uchovávání při 1-5 stupních, vhodné ke zpracování cca za 3 týdny – nejčastěji k uzení
+- Konzervování - zvýšením teploty
+- Uzením    
+- [[Konzervované masné výrobky]]

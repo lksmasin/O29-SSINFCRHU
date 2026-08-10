@@ -1,0 +1,12 @@
+- Vápník 
+- Fosfor
+- Draslík
+- Hořčík
+- Laktóza
+- Proteáza (pepsin)
+- Lipáza
+- Železo
+- Vitamín A
+- Komplex vitamínů B
+- Vitamín C
+- Vitamíny skupiny D

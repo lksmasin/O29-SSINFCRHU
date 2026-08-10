@@ -1,0 +1,2 @@
+- Velikost prodejny musí odpovídat celkovému množství nabízeného zboží a umožňovat plynulý pohyb
+- Přehlednost prodejny – v půdorysu bez výklenků a zákoutí /zákazník má přehled a rychle se orientuje/, úprava podle sortimentů, možnost rychlého doplňování zboží, dokonalý pohyb prodavačů a zákazníků

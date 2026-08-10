@@ -1,0 +1,5 @@
+- V roce 1492 po objevení Ameriky došlo k rozvoji zámořského obchodu
+- Rozvoj [[Zbožíznalství]] počal v 17. a 18. století, kdy dochází k dovozu zboží z Evropy
+- Obchodníkům nebyly známi nové produkty a hotové výrobky:
+	- Koření, ovoce, rostliny, tkaniny, čaj, káva, brambory, porcelán, střelný prach, drahé kameny, zlato a podobně
+- Od 19. století díky novým vynálezům bylo možno zkoumat i strukturu a složení zboží

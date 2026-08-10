@@ -1,0 +1,2 @@
+- **Kopr** — silně aromatická zelenina, léčivé účinky při trávicích potížích, využití i do omáček
+- **Chřest** — mladé výhonky zvané prýty zelené až modrofialové barvy, jemná chuť, vit. C

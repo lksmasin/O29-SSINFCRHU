@@ -1,0 +1,4 @@
+- V chladničkách do + 10 °C;
+- Oddělený od ostatních surovin – velmi snadno přijímá cizí pachy;
+- Po otevření obalu ihned spotřebovat;
+- Uchováváme v obalu a nejlépe i v mikrotenovém sáčku – velmi snadno a rychle okorá.

@@ -1,0 +1,5 @@
+- Je doprovázeno mikrobiální kontaminací
+- Způsobeno neopatrnou manipulací na jatkách
+- Při dopravě
+- Při skladování
+- Při manipulaci v před technologické úpravě

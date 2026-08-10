@@ -1,0 +1,4 @@
+- Vzniká nedostatečným vychlazením zvířete po usmrcení
+- Projevuje se nakyslým zápachem  
+- Na řezu má kovově červenou barvu kolem kostí a cév
+- Barva masa nazelenalá

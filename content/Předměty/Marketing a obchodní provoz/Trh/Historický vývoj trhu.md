@@ -1,0 +1,5 @@
+- Směnný obchod (barter)
+- Drahé kovy — bronz, zlato, stříbro → Vznik peněz
+- Trhy a jarmarky
+- Průmyslová revoluce
+- Moderní digitální trh

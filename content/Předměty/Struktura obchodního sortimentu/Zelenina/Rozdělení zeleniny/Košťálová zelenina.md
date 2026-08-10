@@ -1,0 +1,5 @@
+- **Zelí** — vysoký obsah vitamínů, ranné zelí má měkkou hlávku, dělí se bílé a červené, skladuje se na principu mléčného kvašení
+- **Kapusta** — Hodně Ca, silně aromatická, hlávková, růžičková, kadeřavá
+- **Květák** — Podstatou je nerozvinuté květenství, prodává se s okrajovými listy, hodně Ca, příjemná chuť připomínající maso, typická strava při dietách, nekvalitní rozkvetlá růžička
+- **Brokolice** — Méně rozšířený druh, vit. C, příjemná chuť
+- **Kdluben** — Brukev – vit. A a C ,náchylnost k dřevnatění, bílá a červená

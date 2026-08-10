@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3d29f8141c6669bf","x":-180,"y":0,"width":250,"height":60,"type":"text","text":"Tst\n"},
+		{"id":"c12cbe87c464222e","x":-185,"y":-238,"width":250,"height":60,"type":"text","text":"[[Obchod]]"}
+	],
+	"edges":[
+		{"id":"fa3114a0e2ead077","fromNode":"3d29f8141c6669bf","fromSide":"top","toNode":"c12cbe87c464222e","toSide":"bottom"}
+	]
+}

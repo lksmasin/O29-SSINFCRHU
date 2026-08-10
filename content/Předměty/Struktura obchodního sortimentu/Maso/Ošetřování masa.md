@@ -1,0 +1,7 @@
+- Kakost je ovlivněna krmením, věkem, pohlavím, životními podmínkami a zdravotním stavem zvířete
+- Veškeré maso se musí podrobit veterinární prohlídce
+- Cílem  prohlídky je zamezit přenosu nakažlivých chorob (bakterie salmonel, BSE) nebo cizopasníků (boubel, svalovec) ze zvířat na člověka
+- Maso zvířat je označováno po skončení prohlídky otiskem razítka
+- Plnohodnotné maso se označuje kulatým razítkem modré barvy
+- Podmíněně poživatelné maso se označuje dvěma navzájem se překrývajícími čtverci
+- Trojúhelníkem se označuje maso nepoživatelné

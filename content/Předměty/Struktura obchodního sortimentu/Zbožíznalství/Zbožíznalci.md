@@ -1,0 +1,1 @@
+Jsou odborníci, kteří rozlišují správné vlastnosti zboží, ovládají jeho ošetřování a skladování

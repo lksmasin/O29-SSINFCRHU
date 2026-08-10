@@ -1,0 +1,3 @@
+- Ze zahuštěného [[Mléko|mléka]] (21 % sušiny) pomocí speciálního zákvasu
+- Bílý jogurt 
+- S přídavkem ovocných sirupů, džemů…

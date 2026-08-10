@@ -1,0 +1,6 @@
+- **Mrkev** — barvivo karoten je provitamínem A, pozitivně působí na zrak, mrkev (zašpičatělý tvar), karotka (kulatější, jemnější chuť)
+- **Petržel** — vřetenovitý, zašpičatělý tvar, lépe jen jeden kořen, bílá až nažloutlá dužina, silně nasládlá a aromatická chuť
+- **Celer** — kulovitý tvar, lépe jeden kořen, bílá až smetanově žlutá houbovitá dužina, vit. C a A, silné aroma
+- **Ředkvičky** — jarní zelenina s vysokým obsahem vitamínů a dalších ochranných látek, liší se barvou a tvarem
+- **Červená řepa** — hodně minerálních látek, biologicky hodnotné barvivo, šťavnatá bulva, provitamín A, protirakovinové účinky
+- **Křen** — silně aromatický, proti infekčním chorobám, kořen nemá být rozvětven, hodně vitamínu C, dužina náchylná k dřevnatění

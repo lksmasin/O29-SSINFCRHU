@@ -1,0 +1,24 @@
+- Řadíme sem rostliny, jejich semena, plody a květenství (zelenina, ovoce, luštěniny, obiloviny, houby, brambory)
+- významný zdroj minerálních látek
+- významný zdroj vitamínů rozpustných ve vodě
+- vyšší obsah sacharidů
+- menší obsah bílkovin (neplnohodnotné bílkoviny)
+<br>
+- Obiloviny a výrobky z obilovin (mlýnské výrobky).
+- Luštěniny a výrobky z luštěnin.
+- Olejniny a výrobky z olejnin.
+- Cukr, další sladidla a cukrovinky.
+- Čerstvé a zpracované ovoce.
+- Čerstvá a zpracovaná zelenina.
+- Brambory, výrobky z brambor a další okopaniny.
+- Houby.
+- Čaje.
+- Káva a kávoviny.
+- Kakao, čokoláda a čokoládové cukrovinky.
+- Koření a další ochucovadla.
+<br>
+- Neexistuje jednotný systém třídění. V různých zemích, velice často i v rámci jedné země, se používají různé systémy třídění, které se od sebe liší počtem skupin, jejich pořadím i zařazením jednotlivých komodit do skupin. 
+- Např. brambory se v některých zemích řadí mezi zeleninu. Mezi zeleninu se někdy řadí i luštěniny. 
+- Ořechy bývají někdy uváděny jako samostatná skupina, jindy se řadí mezi ovoce, v naší komoditní vyhlášce jsou zařazeny do skupiny suché skořápkové plody. 
+- Nejednotnost je i v zařazování tuků. Tuky mohou mít samostatnou skupinu, rozdělenou na tuky živočišné (máslo, sádlo, lůj) a rostlinné tuky a oleje nebo rostlinné tuky a oleje tvoří samostatnou skupinu a živočišné tuky jsou řazeny mezi příslušné potraviny živočišného původu (máslo mezi výrobky z mléka a sádlo a lůj mezi výrobky z masa). 
+- Zvláštní postavení má sója. Z hlediska botanického patří mezi luštěniny, řadí se však i mezi olejniny, protože slouží k výrobě oleje.

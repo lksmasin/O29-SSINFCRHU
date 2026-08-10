@@ -1,0 +1,5 @@
+- Pasterizované
+- Egalizované (sjednocené) na určitý obsah tuku 
+- Doporučená spotřeba — den následující po pasterizaci
+- Ideální obal je sklo
+- Ochucená mléka (ovocné sirupy, kakao)

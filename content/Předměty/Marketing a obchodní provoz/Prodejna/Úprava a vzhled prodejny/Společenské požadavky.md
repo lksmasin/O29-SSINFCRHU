@@ -1,0 +1,7 @@
+- Hygiena prodeje, estetika, bezpečnost
+- Zákazník si přeje vysokou úroveň obsluhy, prostředí, informací o použití zboží
+- Zaměstnanec nesmí vynakládat zbytečnou námahu (rozměry a instalace zařízení musí odpovídat proporcím lidského těla)
+- Základ dobrého vybavení: osvětlení, teplota, úprava stěn, klimatizace, čistota
+- Zařízení prodejny musí sloužit optimálnímu prodeji. Při architektonické řešení musíme mít na zřeteli i prodejní psychologii. Každý obchod má svůj image (obraz). 
+- Jedním z aspektů prodeje je srovnávání a oceňování toho, co se nabízí, co zákazník pozoruje, co ho ovlivňuje, zda-li koupí či ne. 
+- Patří sem obchodní zařízení, celá úroveň prostoru a jeho zdánlivost. Přední odborníci nabízejí programové systémy úspěšného prodeje. 

@@ -1,0 +1,12 @@
+- Čaj nikdy nevaříme – pouze spařujeme vroucí vodou (varem bychom čaj poškodili a zničili)
+- Nikdy nepoužíváme teplou vodu z kohoutku
+- Voda by neměla být tvrdá ani chlorovaná, nejlepší je balená
+- Vodu nevaříme v hliníkové konvice – lépe v nerezové nebo smaltované
+- K vaření používáme vždy stejnou nádobu, kterou vyplachujeme horkou vodou, nepoužíváme saponáty, neutíráme ji utěrkou, necháme ji okapat
+- Ke spařování používáme tenkostěnnou porcelánovou nebo skleněnou nádobu, určenou pro tento účel
+- Konvici před zalitím vodou nahřejeme – lépe se využijí aromatické a účinné látky obsažené v čaji
+- Do konvice nasypeme čaj, dávkování závisí na zvyklostech a chuti (1 g čaje na 1 dcl vody)
+- Jakmile se blíží voda k bodu varu, konvici odstavíme, pokud máme chlorovanou vodu, vaříme 10 s.
+- Černý čaj spařujeme 3-5 min, příliš dlouhé louhování uvolňuje třísloviny a čaj získává svíravou chuť, také se uvolňuje tanin, který snižuje účinek kofeinu
+- Aby měl čaj povzbuzující účinky louhujeme cca 3 min.
+- Aby měl čaj uklidňující účinky louhujeme 4-5 min.

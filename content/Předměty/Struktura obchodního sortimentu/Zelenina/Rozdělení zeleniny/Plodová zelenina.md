@@ -1,0 +1,4 @@
+- **Rajčata** — různé odrůdy lišící se tvarem, barvou, velikostí, hodně vit. A a C , Ca, Mn, nesmí se konzumovat v nedozrálém stavu pro obsah jedovatých látek
+- **Paprika** — velmi vysoký obsah vit. C, různé tvary a barvy, síla i chuť dužiny, červené a sladké se označují jako kapie, někdy pálivé, konzervují se sušením a mletím na jemný prášek
+- **Okurky** — nejsou významné po biologické stránce, neobsahují vitaminy a min. látky, ale vysoký obsah vody, příjemná osvěžující chuť, podle pěstování se dělí na skleníkové a polní, podle použití na salátové a nakládačky
+- **Meloun** — málo vitamínů a min. látek, hodně vody a sacharidů, osvěžující potravina, cukrový a vodní

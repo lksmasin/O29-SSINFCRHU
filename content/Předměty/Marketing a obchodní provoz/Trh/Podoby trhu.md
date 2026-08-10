@@ -1,0 +1,4 @@
+- Dokonalá konkurence – teoretická
+- Pokud se řídíme zákony nabídky a poptávky.
+- Opakem je nedokonalá konkurence
+- Představuje situaci na trhu, kdy dochází k omezování konkurenčního prostředí, a to nejčastěji vlivem dominantního postavení firem.

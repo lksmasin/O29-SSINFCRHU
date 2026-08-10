@@ -1,0 +1,4 @@
+- Jsou bílé barvy, rychle rostou
+- Přenášejí choroboplodné zárodky
+- Způsobují rozklad
+- Vyskytují se v dutinách či pouzdrech

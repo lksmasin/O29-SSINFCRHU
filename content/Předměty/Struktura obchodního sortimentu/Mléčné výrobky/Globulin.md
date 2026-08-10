@@ -1,0 +1,3 @@
+- Jednoduchá nerozpustná bílkovina
+- Odděluje se stejným způsobem jako [[Kasein|kasein]]
+- V [[Mléko|mléce]] je ho obsaženo velmi malé množství

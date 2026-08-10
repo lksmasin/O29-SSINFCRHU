@@ -1,0 +1,1 @@
+Má nejlepší užitnou hodnotu z technického, estetického, zdravotně-hygienického, ekologického a ekonomického hlediska 

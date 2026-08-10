@@ -1,0 +1,7 @@
+- Hroznový, ovocný
+- Jsou obsaženy ve vinných hroznech, v ovoci, medu a zelenině
+- Na suchém ovoci se vytváří bílý povlak (fíky, švestky)
+- Výborně kvasí 
+- Ve včelím medu časem krystalizuje
+- Hroznový cukr se uměle vyrábí z kořenů čekanky nebo z hlíz topinamburů
+- **Použití:** Výroba cukrovinek, v lékařství, ovocné šťávy, slazení limonád, likéry…

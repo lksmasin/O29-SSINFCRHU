@@ -1,0 +1,5 @@
+- Projevuje se silným rozkladem tkání masa
+- Maso je mazlavé
+- Prostouplé plyny
+- Barva šedivá až zelená
+- Nepříjemný až odporný zápach

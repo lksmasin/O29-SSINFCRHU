@@ -1,0 +1,1 @@
+- Proces, při kterým zákazník uplatňuje své právo na opravu, výměnu nebo vrácení zboží či služby, které nesplňuje požadavky stanovené smlouvy

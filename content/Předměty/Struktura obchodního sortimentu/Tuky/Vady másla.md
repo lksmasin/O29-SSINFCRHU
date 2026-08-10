@@ -1,0 +1,3 @@
+- Hořká chuť — vadné krmivo nebo činnost [[Biologické vlivy#Mikroorganismy|mikroorganismů]] 
+- Kovová chuť — výroba ve špatných nádobách
+- Žluklá nebo kyselá chuť — nevhodné skladování, špatné vyprání

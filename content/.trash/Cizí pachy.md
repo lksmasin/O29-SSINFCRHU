@@ -1,0 +1,5 @@
+- Nesprávné krmení podávaným před porážkou
+- Podmínkami chovu
+- Pohlavními orgány
+- Dezinfekčními prostředky
+- Nesprávné skladování

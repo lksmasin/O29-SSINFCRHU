@@ -1,0 +1,2 @@
+ * Price
+ * vyjadřuje hodnotu výrobků

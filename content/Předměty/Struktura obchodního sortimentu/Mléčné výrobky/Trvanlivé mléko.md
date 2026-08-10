@@ -1,0 +1,4 @@
+- [[Mléko#^6491cd|Uperizované]]
+- Trvanlivost v řádu měsíců
+- V krabicích (sterilizované, vysokofrekvenční svár)
+- Dopad na životní prostředí

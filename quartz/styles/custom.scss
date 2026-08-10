@@ -1,3 +1,40 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+/* --- Zkrocení postranního panelu (Explorer) --- */
+
+.explorer {
+    /* Zmenšení celkového písma v panelu */
+    font-size: 0.85rem;
+}
+
+.explorer ul {
+    /* Menší odsazení zleva pro vnořené složky */
+    padding-left: 0.8rem;
+    margin-top: 0.2rem;
+}
+
+.explorer li {
+    /* Zmenšení vertikálních mezer mezi jednotlivými předměty */
+    padding: 0.15rem 0;
+}
+
+.explorer li > a {
+    /* Jemnější text, aby tolik nekřičel */
+    opacity: 0.85;
+    transition: all 0.2s ease;
+}
+
+.explorer li > a:hover {
+    /* Zvýraznění a drobný posun doprava při najetí myší */
+    opacity: 1;
+    color: var(--secondary);
+    padding-left: 3px;
+}
+
+/* Zjemnění samotného nadpisu "Procházet" */
+button#explorer {
+    font-size: 0.95rem;
+    font-weight: 600;
+    opacity: 0.9;
+}

@@ -1,40 +1,44 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-/* --- Zkrocení postranního panelu (Explorer) --- */
+/* --- 1. Zrušení podbarvení odkazů v textu --- */
+a.internal {
+    background-color: transparent !important;
+    padding: 0 !important;
+    text-decoration: none !important;
+    border-bottom: 1px solid var(--secondary) !important; /* Decentní podtržení místo křiklavého pozadí */
+}
 
+a.internal:hover {
+    background-color: var(--highlight) !important;
+}
+
+
+/* --- 2. Zkrocení a zmenšení postranního panelu (Explorer) --- */
 .explorer {
-    /* Zmenšení celkového písma v panelu */
-    font-size: 0.85rem;
+    font-size: 0.85rem !important;
 }
 
 .explorer ul {
-    /* Menší odsazení zleva pro vnořené složky */
-    padding-left: 0.8rem;
-    margin-top: 0.2rem;
+    padding-left: 0.8rem !important;
+    margin-top: 0.2rem !important;
 }
 
 .explorer li {
-    /* Zmenšení vertikálních mezer mezi jednotlivými předměty */
-    padding: 0.15rem 0;
+    padding: 0.15rem 0 !important;
 }
 
 .explorer li > a {
-    /* Jemnější text, aby tolik nekřičel */
-    opacity: 0.85;
-    transition: all 0.2s ease;
+    opacity: 0.85 !important;
 }
 
 .explorer li > a:hover {
-    /* Zvýraznění a drobný posun doprava při najetí myší */
-    opacity: 1;
-    color: var(--secondary);
-    padding-left: 3px;
+    opacity: 1 !important;
+    color: var(--secondary) !important;
 }
 
-/* Zjemnění samotného nadpisu "Procházet" */
 button#explorer {
-    font-size: 0.95rem;
-    font-weight: 600;
-    opacity: 0.9;
+    font-size: 0.95rem !important;
+    font-weight: 600 !important;
+    opacity: 0.9 !important;
 }
